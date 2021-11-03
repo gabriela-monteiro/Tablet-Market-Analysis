@@ -1,5 +1,9 @@
 # Tablet-Market-Analysis
-Course: 7130ICT Data Analytics Griffith University, Queensland, Australia Master of Information Technology  
+This project was part of an evaluation criteria for the course 7130ICT Data Analytics Griffith University.  
+
+Lecturer: Dr. Henry Nguyen
+
+Grade: 30/30
 
 The purpose of this report is to discuss and present the most relevant insights on tablet market extracted from the Amazon product review dataset. The Amazon Market contains different product categories such as Books, Video Games and Digital Music. This report only contains information from the Electronics category, especially the Tablet products. Moreover, the analysis was done using several Python libraries: Pandas, gzip, NumPy, Matplotlib, Seaborn, Scikit-Learn, PyLab, statsmodels, itertools, Calplot, pyecharts, NLTK, and Altair. 
 
